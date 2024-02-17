@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/film_finder/static/css/main.69324287.css",
+    "main.js": "/film_finder/static/js/main.64c0b528.js",
+    "static/js/453.d4b50f9e.chunk.js": "/film_finder/static/js/453.d4b50f9e.chunk.js",
+    "static/media/lucas-k-wQLAGv4_OYs-unsplash.jpg": "/film_finder/static/media/lucas-k-wQLAGv4_OYs-unsplash.284e3f20a93ad8dd039d.jpg",
+    "index.html": "/film_finder/index.html",
+    "main.69324287.css.map": "/film_finder/static/css/main.69324287.css.map",
+    "main.64c0b528.js.map": "/film_finder/static/js/main.64c0b528.js.map",
+    "453.d4b50f9e.chunk.js.map": "/film_finder/static/js/453.d4b50f9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69324287.css",
+    "static/js/main.64c0b528.js"
+  ]
+}
